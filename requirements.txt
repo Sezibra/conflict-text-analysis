@@ -1,0 +1,12 @@
+pandas
+matplotlib
+seaborn
+bertopic
+sentence-transformers
+umap-learn
+hdbscan
+scikit-learn
+pdfplumber
+anthropic
+python-dotenv
+notebook
